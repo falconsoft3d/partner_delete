@@ -21,14 +21,14 @@
 ##############################################################################
 
 {
-    'name': 'Borrar Partners MFH',
+    'name': 'Partners Delete MFH',
     'version': '11.0.1.0.0',
     'author': 'Falcon Solutions SpA',
     'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Sales',
-    'summary': 'Permiso para borrar clientes o vendedores',
+    'summary': '',
     'depends': [
         'sale',
         'purchase'
